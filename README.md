@@ -1,8 +1,7 @@
 # 社群織衍計畫 | 3sth.net
 ## 計畫網站： [aigaerithm.3sth.net](https://aigaerithm.3sth.net)
 ## 計劃簡介
->「一切事物的初始狀態，都是些看似無關的碎片、不可測的擾動，然而當此混沌結束後，這些碎片卻又自主有序的聚合成一個整體。」
-> - Wikipedia
+>「一切事物的初始狀態，都是些看似無關的碎片、不可測的擾動，然而當此混沌結束後，這些碎片卻又自主有序的聚合成一個整體。」- Wikipedia
  
 2006年小說《三體》的問世，讓這一古老的天文物理難題再度來到世人面前，然而三體問題所引發的思辨，除了可以朝著更大尺度的外太空（Outer Universe）與更為深邃的時空間（Deep Spacetime）外，亦或可反轉為當代文明的運作模式，即原先的自然 -- 人類雙體文明，在科技逐步全面化，透過種種量化技術，解構原先的現代二元對立架構，建立了更為多層次的體系。
 
@@ -15,11 +14,10 @@
 
 在藝術史上，藝術透過對技術、程序與行為的分析與考察，再現了時間、空間、關係以及系統等概念並進而探討其內涵，然而藝術是否能夠面對集體永恆的不確定性？藝術又該如何在三體構成的動態風險社會中，發掘此一狀態中所生的感知特性？
  
-〈社群織衍計畫 | 3sth.net〉作為一個藝術性的研究計畫，探討三者間的互動將會形成什麼樣貌的文化織體，以及此間的運作方式：透過自行於網絡與現實環境搭建的三體網絡，讓藻類（自然）、使用者（人類）與人工智慧（科技）得以透過數位介面交流，其中所產生的相關數據經由蒐集、演算處理後，由搭載自動演算的機器人手臂（robot arm）將其編織成網，此一參數資料並將轉化為影像，投影於網狀織體上。人類在參與及觀看的位置間擺動，透過自身實踐經驗觀看認識，思考與人工智慧與數據，對原有的雙體關係，帶來了什麼樣的變化？而所謂的三體關係，又將產生什麼新的現象？數據為三體交互作用的內在運作結果，而織體為三體交互作用衍生的表徵架構，AI所帶來的不穩定性，讓實驗不僅受限於藝術計畫建立的框架中，並也由網絡的混沌決定；參與者不再受到既定的互動機制掌握，而將一同體驗創作者實驗過程中的未知與不可預測。
+社群織衍計畫 | 3sth.net 作為一個藝術性的研究計畫，探討三者間的互動將會形成什麼樣貌的文化織體，以及此間的運作方式：透過自行於網絡與現實環境搭建的三體網絡，讓藻類（自然）、使用者（人類）與人工智慧（科技）得以透過數位介面交流，其中所產生的相關數據經由蒐集、演算處理後，由搭載自動演算的機器人手臂（robot arm）將其編織成網，此一參數資料並將轉化為影像，投影於網狀織體上。人類在參與及觀看的位置間擺動，透過自身實踐經驗觀看認識，思考與人工智慧與數據，對原有的雙體關係，帶來了什麼樣的變化？而所謂的三體關係，又將產生什麼新的現象？數據為三體交互作用的內在運作結果，而織體為三體交互作用衍生的表徵架構，AI所帶來的不穩定性，讓實驗不僅受限於藝術計畫建立的框架中，並也由網絡的混沌決定；參與者不再受到既定的互動機制掌握，而將一同體驗創作者實驗過程中的未知與不可預測。
 
 ## Introduction
-> At the very beginning, the origin of things seems to consist merely of irrelevant bits and unpredictable turbulence. Yet, as this chaos comes to an end, the fragments gather together and autonomously form a bigger structured whole. 
-> - Wikipedia
+> At the very beginning, the origin of things seems to consist merely of irrelevant bits and unpredictable turbulence. Yet, as this chaos comes to an end, the fragments gather together and autonomously form a bigger structured whole. - Wikipedia
 
 *The Three-Body Problem*, a science fiction novel by the Chinese writer Liu Cixin came out in 2006, putting discussions of the century-old astronomical three-body problem under the spotlight. Relevant dialogues not only are significant in addressing the outer universe and deeper spacetime, but also could be employed to direct the interrogation on how we see our modern-day civilization. As technological advancements had reached nearly every aspect of our lives, the dualism (of human and nature, of subjectivity and objectivity) since Enlightenment seemed to give way to a more complex, multi-dimensional system emerging as a result of the ever-increasing presence of quantifiable data and technology.
 
