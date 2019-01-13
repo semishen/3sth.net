@@ -49,5 +49,9 @@ As an experimental research project bridging between art and technology, _**3sth
 - 展場投影系統
   - C_3sthProjection (三階段投影內容) 
   
+- 機械臂數位編織
+
+- 藻類IOT生物反應器
+  
 
  
