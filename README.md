@@ -1,5 +1,5 @@
 # 社群織衍計畫 | 3sth.net
-## 計畫網站： [aigaerithm.3sth.net](https://aigaerithm.3sth.net)
+## 計畫影片： [3sth[DOT]net](https://vimeo.com/user88089414)
 ## 計劃簡介
 >「一切事物的初始狀態，都是些看似無關的碎片、不可測的擾動，然而當此混沌結束後，這些碎片卻又自主有序的聚合成一個整體。」- Wikipedia
  
